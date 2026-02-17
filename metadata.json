@@ -1,0 +1,5 @@
+{
+  "name": "V2 Top20  Cost Analyzer Pro",
+  "description": "Professional tool for analyzing battery production costs from Excel reports. Features intelligent parsing of cost items, inbound quantity detection, and detailed breakdowns.",
+  "requestFramePermissions": []
+}
